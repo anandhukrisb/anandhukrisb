@@ -59,7 +59,7 @@
 <br/>
 <br/>
 
-<a href="https://linkedin.com/in/your-linkedin-url">
+<a href="www.linkedin.com/in/anandhu-krishna-286b65354">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
