@@ -1,56 +1,66 @@
-# Hi there, I'm Anandhu! 👋
+<div align="center">
 
-### 🎓 MCA Student | 💻 Tech Enthusiast | ✨ Positive Vibes Only
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Anandhu+👋;MCA+Student+🚀;Tech+Enthusiast+💻;Positive+Vibes+Only+✨" alt="Typing SVG" />
 
-I am an MCA Student trying to get better every day. I love exploring how things work under the hood—whether it's low-level C programming, complex algorithms, or full-stack web development.
+<br/>
 
-> *"Filled with positive attitude, yeahhhhh"* 🚀
+<h3>I am an MCA Student trying to get better every day.</h3>
+<p>Filled with positive attitude, yeahhhhh! I love exploring how things work under the hood—whether it's low-level C programming, complex algorithms, or full-stack web development.</p>
 
----
+<br/>
 
-### 🛠️ My Tech Stack
+<h3>🛠️  Languages & Tools</h3>
 
-**Languages**
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=flat&logo=oracle&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="PLSQL" />
+</p>
 
-**Development Frameworks**
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+</p>
 
-**Tools & Libraries**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
----
+<br/>
+
+</div>
 
 ### 🔭 What I'm Working On
 
-Here are some of my recent projects and learning milestones:
+| Project | Tech Stack | Description |
+| :--- | :--- | :--- |
+| 🤖 **[FACE-RECOGNITION](https://github.com/anandhukrisb/FACE-RECOGNITION)** | Python, OpenCV | Real-time face detection and recognition app. |
+| 📱 **Mz Academy** | Django, React Native | Full-stack educational platform (Backend + Mobile). |
+| 🧮 **[LINEAR-PROG-PROB](https://github.com/anandhukrisb/LINEAR-PROGRAMMING-PROBLEM)** | React, JS | Solving complex MCA assignments with a web UI. |
+| 🧩 **[ALGOS](https://github.com/anandhukrisb/ALGOS)** | C, Java | Grinding Data Structures and Algorithms. |
+| ☁️ **[Test-Deploy](https://github.com/anandhukrisb/Test-Deploy)** | Docker, Celery | Experimenting with containerization and background tasks. |
 
-* 🤖 **[FACE-RECOGNITION](https://github.com/anandhukrisb/FACE-RECOGNITION):** A Real-time face detection and recognition app built with Python and Computer Vision.
-* 📱 **Mz Academy:** A full-stack educational platform built with **Django** (Backend) and **React Native** (Mobile App).
-* 🧮 **[LINEAR-PROGRAMMING-PROBLEM](https://github.com/anandhukrisb/LINEAR-PROGRAMMING-PROBLEM):** Solving complex MCA assignments using **React**.
-* 🧩 **[ALGOS](https://github.com/anandhukrisb/ALGOS) & [LeetCode](https://github.com/anandhukrisb/LeetCode):** Grinding Data Structures and Algorithms in **C** and **Java**.
-* ☁️ **Deployment:** Learning to containerize Django apps with **Docker** and handle background tasks with **Celery**.
+<br/>
 
----
+<div align="center">
 
-### 📈 My GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=anandhukrisb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="Anandhu's Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandhukrisb&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Langs" />
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=anandhukrisb&show_icons=true&theme=radical" alt="Anandhu's Github Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandhukrisb&layout=compact&theme=radical" alt="Top Langs" height="170"/>
-</p>
+<br/>
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anandhukrisb&theme=tokyonight&hide_border=true" alt="Streak" />
 
-### 📫 Connect with Me
+<br/>
+<br/>
 
-* **Portfolio:** [Link to your MY_PORTFOLIO live site if you have one]
-* **LinkedIn:** [Your LinkedIn URL]
+<a href="https://linkedin.com/in/your-linkedin-url">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+</div>
