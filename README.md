@@ -1,66 +1,118 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Anandhu+👋;MCA+Student+🚀;Tech+Enthusiast+💻;Positive+Vibes+Only+✨" alt="Typing SVG" />
+<!-- 1. HEADER & TYPING EFFECT -->
 
-<br/>
+<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D30%26pause%3D1000%26color%3DF75C7E%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DHi%2Bthere,%2BI%27m%2BAnandhu+👋;MCA+Student+🚀;Tech+Enthusiast+💻;Positive+Vibes+Only+✨" alt="Typing SVG" />
+
+<!-- 2. INTRO -->
 
 <h3>I am an MCA Student trying to get better every day.</h3>
 <p>Filled with positive attitude, yeahhhhh! I love exploring how things work under the hood—whether it's low-level C programming, complex algorithms, or full-stack web development.</p>
 
-<br/>
+<!-- 3. TROPHIES / ACHIEVEMENTS -->
 
-<h3>🛠️  Languages & Tools</h3>
+<h2>🏆 Achievements</h2>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Danandhukrisb%26theme%3Dradical%26no-frame%3Dtrue%26column%3D7%26margin-w%3D15%26margin-h%3D15" alt="trophies" />
+</a>
 
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="PLSQL" />
-</p>
+<!-- 4. TECH STACK (Organized by Category) -->
 
-<p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-</p>
+<h2>🛠️ Languages & Tools</h2>
+
+<!-- Programming Languages -->
 
 <p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/C-00599C%3Fstyle%3Dfor-the-badge%26logo%3Dc%26logoColor%3Dwhite" alt="C" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-323330%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3DF7DF1E" alt="JS" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Oracle-F80000%3Fstyle%3Dfor-the-badge%26logo%3Doracle%26logoColor%3Dwhite" alt="PLSQL" />
 </p>
 
-<br/>
+<!-- Frameworks & Mobile -->
+
+<p>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Django-092E20%3Fstyle%3Dfor-the-badge%26logo%3Ddjango%26logoColor%3Dwhite" alt="Django" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/React-20232A%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D61DAFB" alt="React" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/React_Native-20232A%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D61DAFB" alt="React Native" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+</p>
+
+<!-- Tools & DevOps -->
+
+<p>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite" alt="Docker" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/NumPy-013243%3Fstyle%3Dfor-the-badge%26logo%3Dnumpy%26logoColor%3Dwhite" alt="Numpy" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/git-%2523F05033.svg%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" alt="Git" />
+</p>
 
 </div>
 
-### 🔭 What I'm Working On
+<!-- 5. PROJECTS TABLE -->
 
-| Project | Tech Stack | Description |
-| :--- | :--- | :--- |
-| 🤖 **[FACE-RECOGNITION](https://github.com/anandhukrisb/FACE-RECOGNITION)** | Python, OpenCV | Real-time face detection and recognition app. |
-| 📱 **Mz Academy** | Django, React Native | Full-stack educational platform (Backend + Mobile). |
-| 🧮 **[LINEAR-PROG-PROB](https://github.com/anandhukrisb/LINEAR-PROGRAMMING-PROBLEM)** | React, JS | Solving complex MCA assignments with a web UI. |
-| 🧩 **[ALGOS](https://github.com/anandhukrisb/ALGOS)** | C, Java | Grinding Data Structures and Algorithms. |
-| ☁️ **[Test-Deploy](https://github.com/anandhukrisb/Test-Deploy)** | Docker, Celery | Experimenting with containerization and background tasks. |
+🔭 What I'm Working On
 
-<br/>
+Project
+
+Tech Stack
+
+Description
+
+🤖 FACE-RECOGNITION
+
+Python, OpenCV
+
+Real-time face detection and recognition app built from scratch.
+
+📱 Mz Academy
+
+Django, React Native
+
+Full-stack educational platform (Backend + Mobile App).
+
+🧮 LINEAR-PROG-PROB
+
+React, JS
+
+Solving complex MCA assignments with an interactive web UI.
+
+🧩 ALGOS
+
+C, Java
+
+Grinding Data Structures and Algorithms from basics to expert.
+
+☁️ Test-Deploy
+
+Docker, Celery
+
+Experimenting with containerization and background tasks.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anandhukrisb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="Anandhu's Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandhukrisb&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Langs" />
+<!-- 6. GITHUB STATS -->
 
-<br/>
+<h2>📈 GitHub Stats</h2>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anandhukrisb&theme=tokyonight&hide_border=true" alt="Streak" />
+<p>
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Danandhukrisb%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26count_private%3Dtrue" height="160" alt="Anandhu's Stats" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Danandhukrisb%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue" height="160" alt="Top Langs" />
+</p>
 
-<br/>
-<br/>
+<!-- STREAK STATS -->
 
-<a href="www.linkedin.com/in/anandhu-krishna-286b65354">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<p>
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Danandhukrisb%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="Streak" />
+</p>
+
+<!-- 7. FOOTER LINKS -->
+
+<a href="https://www.google.com/search?q=https://linkedin.com/in/your-linkedin-url">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" />
+</a>
+<a href="https://www.google.com/search?q=https://github.com/anandhukrisb">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-100000%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub" />
 </a>
 
 </div>
