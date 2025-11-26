@@ -1,4 +1,4 @@
-# Hi there, I'm Anand! 👋
+# Hi there, I'm Anandhu! 👋
 
 I am a software enthusiast and developer passionate about solving real-world problems through code. My interests range from Full Stack Web Development to low-level C programming and Machine Learning.
 
